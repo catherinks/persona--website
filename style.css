@@ -301,6 +301,9 @@ tr, td, th{
     font-size: 18px;
 }
 
+.text a:visited{
+    color: var(--third-color);
+}
 
 
 
